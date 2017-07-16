@@ -10,9 +10,9 @@ Can be used through command line
 ```
 python cap.py -f 0.1 -d 5 -c 3 -o "output_path/output_file.png"
 ```
-* **-f** - time between each capture
-* **-d** - total duration of capture
-* **-c** - number of columns in the output sprite sheet, number of rows is dependent on total images and number of columns
-* **-o** - output file path **AND** name
+* **-f**  time between each capture
+* **-d**  total duration of capture
+* **-c**  number of columns in the output sprite sheet, number of rows is dependent on total images and number of columns
+* **-o**  output file path **AND** name
 
 ## THANKS - **JACK**
