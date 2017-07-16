@@ -3,7 +3,7 @@ Captures anything on screen and saves them into a sprite sheet
 
 ## Pre reqs
 * PyQt5 - uh
-* [PIL] (http://www.pythonware.com/products/pil/) - image processing library
+* [PIL](http://www.pythonware.com/products/pil/) - image processing library
 
 ## Using it
 Can be used through command line
