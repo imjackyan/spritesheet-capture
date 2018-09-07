@@ -3,7 +3,7 @@ Captures anything on screen and saves them into a sprite sheet
 
 ## Getting Started
 ### Prerequisites
-* PyQt5 - this is kinda a pain to set up. But if you're using [Anaconda](https://www.continuum.io/downloads) you can just use *conda*
+* PyQt5 - If you're using [Anaconda](https://www.continuum.io/downloads) you can just use *conda*
 ```
 conda install qtpy 
 ```
